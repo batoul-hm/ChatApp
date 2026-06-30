@@ -19,8 +19,8 @@ $result = mysqli_query($conn, $sql);
     <link rel="stylesheet" href="chat_selection.css">
 </head>
 <body>
-<div class="AryaTel">
-        <h2>AryaTel</h2>
+<div class="BatoulChat">
+        <h2>BatoulChat</h2>
 </div>
     <h2>Select a user to chat with:</h2>
     <ul>
