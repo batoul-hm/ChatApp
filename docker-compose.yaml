@@ -6,8 +6,8 @@ services:
     container_name: mysql-se
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: AryaTel 
-      MYSQL_USER: ARYA
+      MYSQL_DATABASE: BatoulTel 
+      MYSQL_USER: batoul
       MYSQL_PASSWORD: root
     ports:
       - "3306:3306"
