@@ -1,9 +1,9 @@
 <?php
 
 $host = 'mysql';
-$user = 'ARYA';
+$user = 'batoul';
 $password = 'root';
-$db = 'AryaTel';
+$db = 'BatoulTel';
 
 $conn = mysqli_connect($host, $user, $password, $db);
 
