@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-    background-color: #4CAF50;
+    background-color: #F48FB1;
     padding: 10px 20px;
     color: white;
     text-align: center;
@@ -53,7 +53,7 @@ body {
     margin-bottom: 20px;
     font-size: 40px;
     font-weight: bold;
-    color: #4CAF50;
+    color: #F48FB1;
 }
 
 .chat-container {
@@ -94,7 +94,7 @@ form input {
 
 form button {
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: #F48FB1;
     color: white;
     border: none;
     border-radius: 5px;
