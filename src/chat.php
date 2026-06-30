@@ -39,7 +39,7 @@ $stmt->close();
         </nav>
     </header>
 
-    <div class="AryaTel">AryaTel</div>
+    <div class="BatoulChat">BatoulChat</div>
 
     <div class="chat-container">
         <h2>Chat with <?= htmlspecialchars($receiver_email) ?></h2>
