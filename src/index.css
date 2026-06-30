@@ -15,14 +15,14 @@ body {
     padding-top: 20px; /* Add space at the top */
 }
 
-.AryaTel {
+.BatoulChat {
     text-align: center;
     font-size: 40px;
     margin-top: 50px;
     padding-bottom: 50px;
     font-weight: bold;
     color: #4CAF50;
-    margin-bottom: 20px; /* Add space below the AryaTel text */
+    margin-bottom: 20px; /* Add space below the BatoulChat text */
 }
 
 .container {
